@@ -17,27 +17,39 @@ Cognitive Science (CS + Linguistics) @ McGill | Data Science · Software Enginee
 
 ### 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-01161e?style=for-the-badge&logo=python&logoColor=eff6e0)
+![Java](https://img.shields.io/badge/Java-01161e?style=for-the-badge&logo=openjdk&logoColor=eff6e0)
+![TypeScript](https://img.shields.io/badge/TypeScript-01161e?style=for-the-badge&logo=typescript&logoColor=eff6e0)
+![JavaScript](https://img.shields.io/badge/JavaScript-01161e?style=for-the-badge&logo=javascript&logoColor=eff6e0)
+![C](https://img.shields.io/badge/C-01161e?style=for-the-badge&logo=c&logoColor=eff6e0)
+![SQL](https://img.shields.io/badge/SQL-01161e?style=for-the-badge&logo=postgresql&logoColor=eff6e0)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-598392?style=for-the-badge&logo=react&logoColor=eff6e0)
+![Next.js](https://img.shields.io/badge/Next.js-598392?style=for-the-badge&logo=nextdotjs&logoColor=eff6e0)
+![FastAPI](https://img.shields.io/badge/FastAPI-598392?style=for-the-badge&logo=fastapi&logoColor=eff6e0)
+![PyTorch](https://img.shields.io/badge/PyTorch-598392?style=for-the-badge&logo=pytorch&logoColor=eff6e0)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-598392?style=for-the-badge&logo=scikit-learn&logoColor=eff6e0)
+![Pandas](https://img.shields.io/badge/Pandas-598392?style=for-the-badge&logo=pandas&logoColor=eff6e0)
+![spaCy](https://img.shields.io/badge/spaCy-598392?style=for-the-badge&logo=spacy&logoColor=eff6e0)
+
+**Tools & Design**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-aec3b0?style=for-the-badge&logo=postgresql&logoColor=01161e)
+![Figma](https://img.shields.io/badge/Figma-aec3b0?style=for-the-badge&logo=figma&logoColor=01161e)
+![Git](https://img.shields.io/badge/Git-aec3b0?style=for-the-badge&logo=git&logoColor=01161e)
+![Vercel](https://img.shields.io/badge/Vercel-aec3b0?style=for-the-badge&logo=vercel&logoColor=01161e)
+![Power BI](https://img.shields.io/badge/Power%20BI-aec3b0?style=for-the-badge&logo=powerbi&logoColor=01161e)
+![Tableau](https://img.shields.io/badge/Tableau-aec3b0?style=for-the-badge&logo=tableau&logoColor=01161e)
 
 ---
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nusaibahrawnak)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nusaibah.rawnak@mail.mcgill.ca)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=astro&logoColor=white)](https://nusaibah-rawnak.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nusaibah-Rawnak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-01161e?style=for-the-badge&logo=linkedin&logoColor=eff6e0)](https://linkedin.com/in/nusaibahrawnak)
+[![Email](https://img.shields.io/badge/Email-598392?style=for-the-badge&logo=gmail&logoColor=eff6e0)](mailto:nusaibah.rawnak@mail.mcgill.ca)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aec3b0?style=for-the-badge&logo=astro&logoColor=01161e)](https://nusaibah-rawnak.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-01161e?style=for-the-badge&logo=github&logoColor=eff6e0)](https://github.com/Nusaibah-Rawnak)
