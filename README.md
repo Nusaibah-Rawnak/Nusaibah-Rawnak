@@ -1,6 +1,17 @@
+<div align="center">
+
 # Hey there, I'm Nusaibah! 👋
 
 Cognitive Science (CS + Linguistics) @ McGill | Data Science · Software Engineering · Frontend & UI/UX
+
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-01161e?style=for-the-badge&logo=linkedin&logoColor=eff6e0)](https://linkedin.com/in/nusaibahrawnak)
+[![Email](https://img.shields.io/badge/Email-598392?style=for-the-badge&logo=gmail&logoColor=eff6e0)](mailto:nusaibah.rawnak@mail.mcgill.ca)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aec3b0?style=for-the-badge&logo=astro&logoColor=01161e)](https://nusaibah-rawnak.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-01161e?style=for-the-badge&logo=github&logoColor=eff6e0)](https://github.com/Nusaibah-Rawnak)
+
+</div>
 
 ---
 
@@ -47,9 +58,25 @@ Cognitive Science (CS + Linguistics) @ McGill | Data Science · Software Enginee
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Nusaibah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nusaibah-Rawnak&show_icons=true&hide_border=true&title_color=aec3b0&icon_color=598392&text_color=aec3b0&bg_color=01161e)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nusaibah-Rawnak&layout=compact&hide_border=true&title_color=aec3b0&icon_color=598392&text_color=aec3b0&bg_color=01161e)
+
+</div>
+
+---
+
 ### 📫 Connect with Me
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-01161e?style=for-the-badge&logo=linkedin&logoColor=eff6e0)](https://linkedin.com/in/nusaibahrawnak)
 [![Email](https://img.shields.io/badge/Email-598392?style=for-the-badge&logo=gmail&logoColor=eff6e0)](mailto:nusaibah.rawnak@mail.mcgill.ca)
 [![Portfolio](https://img.shields.io/badge/Portfolio-aec3b0?style=for-the-badge&logo=astro&logoColor=01161e)](https://nusaibah-rawnak.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-01161e?style=for-the-badge&logo=github&logoColor=eff6e0)](https://github.com/Nusaibah-Rawnak)
+
+</div>
