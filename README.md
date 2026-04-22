@@ -62,6 +62,8 @@ Cognitive Science (CS + Linguistics) @ McGill | Data Science · Software Enginee
 
 <div align="center">
 
+![Nusaibah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nusaibah-Rawnak&show_icons=true&hide_border=true&title_color=aec3b0&icon_color=598392&text_color=aec3b0&bg_color=01161e)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nusaibah-Rawnak&layout=compact&hide_border=true&title_color=aec3b0&icon_color=598392&text_color=aec3b0&bg_color=01161e)
 
 </div>
